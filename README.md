@@ -8,7 +8,7 @@
 
 ## 更多资源请访问
 
--  [时光爱分享](https://blog.wemtime.com)
+-  [外星人资源网](https://zy.alienzy.top)
 
 -  [时光导航](https://dh.wemtime.com)
 
