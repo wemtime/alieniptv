@@ -7,7 +7,7 @@
   "routes": [
     {
       "src": "/.*",
-      "dest": "/api/index.go"
+      "dest": "/api/index.php"
     }
   ]
 }
